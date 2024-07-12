@@ -2,7 +2,7 @@
 - 👀 I’m interested in oatmeal
 - 🌱 I’m currently learning oatmeal
 - 💞️ I’m looking to collaborate on oatmeal
-- 📫 How to reach me:  [`@jakekreider`](https://github.com/jakekreider)
+- 📫 How to reach me:  @jakekreider
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I eat oatmeal
 
